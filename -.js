@@ -417,7 +417,7 @@
                 
                     <button type="submit" id="submitButton" class="btn btn-default"> Send</button>
                     <div class="form-error container">
-                    <div class="col-xs-offset-1">Something went wrong. Please check your mobile and try again.</div>
+                    <div class="col-xs-offset-1">Something went wrong! Please check your mobile and try again.</div>
                     </div>
 
                 </form>
